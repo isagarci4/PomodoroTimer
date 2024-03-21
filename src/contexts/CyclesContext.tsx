@@ -1,4 +1,4 @@
-import { ReactNode, createContext, useState, useReducer } from 'react'
+import { ReactNode, createContext, useState } from 'react'
 
 interface CreateCycleData {
   task: string
